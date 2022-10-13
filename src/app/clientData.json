@@ -1,0 +1,16 @@
+[
+    { "name": "Juan Perez", "country": "Mexico", "sales amount": 72000, "product": "USB" },
+    { "name": "Nelly Cooper", "country": "Canada", "sales amount": 72000, "product": "Keyboard" },
+    { "name": "Austin Molko", "country": "USA", "sales amount": 32000, "product": "Printer" },
+    { "name": "Ana Garcia", "country": "Mexico", "sales amount": 32000, "product": "Mouse" },
+    { "name": "Eduardo Punset", "country": "Spain", "sales amount": 35000, "product": "Chip" },
+    { "name": "Lionel Messi", "country": "Argentina", "sales amount": 25000, "product": "Memory" },
+    { "name": "Florencia Rocha", "country": "Uruguay", "sales amount": 35000, "product": "Camera" },
+    { "name": "Angie Lozano", "country": "Belize", "sales amount": 65000, "product": "Bluetooth" },
+    { "name": "Rodolfo Cisneros", "country": "Panama", "sales amount": 29000, "product": "Audio" },
+    { "name": "Leticia De La Rosa", "country": "Mexico", "sales amount": 80000, "product": "Storage" },
+    { "name": "Rafael Robles", "country": "Dominican Republic", "sales amount": 43000, "product": "Monitor" },
+    { "name": "Janeth Jimenez", "country": "Spain", "sales amount": 30000, "product": "Battery" },
+    { "name": "Andres Hernandez", "country": "Belize", "sales amount": 52000, "product": "Server" }
+  ]  
+  

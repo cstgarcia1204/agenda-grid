@@ -1,0 +1,7 @@
+[
+    { "headerName": "Name", "field": "name"},
+    { "headerName": "Coauntry", "field": "country"},
+    {  "headerName": "Sales Amount", "field": "sales amount"},
+    {  "headerName": "Product", "field": "product"}
+]
+  
